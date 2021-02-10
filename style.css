@@ -33,7 +33,7 @@ div#content {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    min-height: 100vh;
+    min-height: 95vh;
 }
 
 header {
@@ -86,6 +86,7 @@ footer > p {
     color: var(--secondary_color);
     text-align: center;
     font-size: 0.9rem;
+    width: 70%;
     margin: 1% 0 1% 0;
 }
 
